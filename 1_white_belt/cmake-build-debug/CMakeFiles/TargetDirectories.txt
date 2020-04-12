@@ -1,0 +1,3 @@
+/Users/Barnett/CLionProjects/white_belt/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/Barnett/CLionProjects/white_belt/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/Barnett/CLionProjects/white_belt/cmake-build-debug/CMakeFiles/white_belt.dir

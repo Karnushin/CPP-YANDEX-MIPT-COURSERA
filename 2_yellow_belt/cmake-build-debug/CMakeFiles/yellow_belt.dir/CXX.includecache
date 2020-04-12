@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/Barnett/CLionProjects/yellow_belt/main.cpp
+iostream
+-
+string
+-
+vector
+-
+map
+-
+sstream
+-
+
