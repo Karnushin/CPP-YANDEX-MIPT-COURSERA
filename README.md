@@ -2,4 +2,4 @@
 
 [Link to specialization](https://www.coursera.org/specializations/c-plus-plus-modern-development)
 
-Было время, когда изучал более или менее плотно С++, в том числе проходил часть курсов данной специализации. Файлы-решения, как правило, никакие не сохранял, но что-то осталось
+It was time when I learned C++ deeply than it was studied in the Uni and cos of that I passed some courses. Unfortunately, tons of file I didn't save but there're some of them. Mostly it's for me to not lose these files.
